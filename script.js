@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "¿Te equivcaste de boton, verdad?",
+    "¿Estas segura?",
+    "¿Estás segura deveritas?",
+    "Tengo unas cocas bien heladas, andale...",
+    "Si apretas el otro botón ya no tendrás ojeras...",
+    "Sacrificaré una cajita feliz asi que di que sí...",
+    "Te mandaré audios fiesteros ¿Vale?",
+    "Suministro de colageno permanente, piensalo...",
+    "Bien, has lo que quieras.",
+    "¡PERO CLARO QUE QUIERES ESTAR CONMIGO!, ¿NO?"
 ];
 
 let messageIndex = 0;
@@ -78,5 +78,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "yes_page.html";
+    window.location.href = "awebo_la_chernobyl_me_dijo_si.html";
 }
