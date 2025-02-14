@@ -12,12 +12,12 @@ background-attachment: fixed;
 
 .container {
     text-align: center;
-    padding-top:380px;
+    padding-top:550px;
     padding-bottom:50px;
 }
 
 .header_text {
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Cabin';
     color:rgb(255, 178, 255);
     
@@ -33,14 +33,15 @@ background-attachment: fixed;
 p{
     font-family:"Anta";
     color:white;
-    font-size:1.5rem;
+    font-size:1.3rem;
     padding: 40px 0 30px 0;
+    text-align:center;
 }
 
 span{
     display:block;
     font-family: 'Cabin';
-    font-size:1.1rem;
+    font-size:0.9rem;
     margin-top:60px;
     color:white;
     background: rgb(45, 45, 45);
@@ -61,7 +62,7 @@ ul li{
     padding: 20px 0 10px 0;
     background:rgba(55, 17, 35, 0.75);
     color: white;
-    font-size:1.6rem;
+    font-size:1.3rem;
 }
 li{
     --timing: linear(0, 0.3, 0.75, 1);
